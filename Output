@@ -1,0 +1,7 @@
+Checking for missing values:
+weather             0
+traffic_volume      5
+time                0
+date                0
+accident_severity   0
+dtype: int64
